@@ -1,6 +1,6 @@
 {
   "name": "thai-address-database-election66",
-  "version": "0.0.30",
+  "version": "0.0.31",
   "description": "update database with id",
   "main": "lib/index.js",
   "engines": {
